@@ -65,10 +65,10 @@ Being a passionate Web Developer, i love technology. I'm always a learner and do
 ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=) &nbsp;
 
 # 🔭 &nbsp; What I Do ?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Development\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Mobile Development\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; SEO Audit\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Redactor 
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Development\
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Mobile Development\
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; SEO Audit\
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Redactor 
 
 
 # Open source Gallery:
