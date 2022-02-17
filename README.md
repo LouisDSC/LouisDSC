@@ -64,24 +64,23 @@ Being a passionate Web Developer, i love technology. I'm always a learner and do
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; 
 ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=) &nbsp;
 
-# 🔭 &nbsp; What I Do ?
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Development\
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Mobile Development\
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; SEO Audit\
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; Web Redactor 
-
-
 # Open source Gallery:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LouisDSC&theme=dracula&hide_border=true)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/EZFRICA">
+<a href="https://github.com/LouisDSC">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EZFRICA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EZFRICA&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=EZFRICA&theme=cobalt&hide_border=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=LouisDSC&theme=cobalt&hide_border=true"/>
 </div>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LouisDSC&theme=radical&no-frame=true&no-bg=false&margin-w=5)
+
+## 💬Contact me
+[japhethlouis@gmail.com](japhethlouis@gmail.com/) ✨
