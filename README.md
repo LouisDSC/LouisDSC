@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫&nbsp;Get to knwo me :
+# 💫&nbsp;Get to know me :
 Being a passionate Web Developer, i love technology. I'm always a learner and do old technology.\
 ✍️ &nbsp; Designer & Web Developer - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
 ✍️ &nbsp; Designer - Google Developer Student Groups [GDSC Agitel-Formation](https://gdsc.community.dev/agitel-formation/)\
