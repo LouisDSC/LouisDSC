@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 # 💫&nbsp;Get to know me :
 Being a passionate Web Developer, i love technology. I'm always a learner and do old technology.\
-✍️ &nbsp; Designer & Web Developer - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
+✍️ &nbsp; Community Manager - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
+✍️ &nbsp; Lead - Google Developer Groups [GDG Cloud Bassam](https://gdg.community.dev/gdg-basam/)\
 ✍️ &nbsp; Designer - Google Developer Student Groups [Cocody](https://gdg.community.dev/gdg-cocody/)\
 ✍️ &nbsp; Designer - TensorFlow Abidjan [TFUG Abidjan](https://www.meetup.com/fr-FR/TensorFlow-Abidjan/?_cookie-check=px0Vy8Fb4iCoOBYp)\
-✍️ &nbsp; Designer - Google Developer Student Groups [GDSC Agitel-Formation](https://gdsc.community.dev/agitel-formation/)\
 💬 &nbsp; Hire me here [Portfolio](https://louis-japheth-kouassi.web.app/)
 
 ## 🌐&nbsp;Socials
