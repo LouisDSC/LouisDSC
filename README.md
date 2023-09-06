@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Being a passionate Web Developer, i love technology. I'm always a learner and do old technology.\
 ✍️ &nbsp; Co-Organizer - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
 ✍️ &nbsp; Lead - Google Developer Groups [GDG Bassam](https://gdg.community.dev/gdg-bassam/)\
-✍️ &nbsp; Lead [TFUG Bassam](https://louis-japheth-kouassi.web.app/)
+✍️ &nbsp; Lead [TFUG Bassam](https://louis-japheth-kouassi.web.app/)\
 ✍️ &nbsp; Designer - Google Developer Student Groups [Cocody](https://gdg.community.dev/gdg-cocody/)\
 ✍️ &nbsp; Designer - TensorFlow Abidjan [TFUG Abidjan](https://www.meetup.com/fr-FR/TensorFlow-Abidjan/?_cookie-check=px0Vy8Fb4iCoOBYp)\
 
