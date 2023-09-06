@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 # 💫&nbsp;Get to know me :
 Being a passionate Web Developer, i love technology. I'm always a learner and do old technology.\
-✍️ &nbsp; Community Manager - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
+✍️ &nbsp; Co-Organizer - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
 ✍️ &nbsp; Lead - Google Developer Groups [GDG Bassam](https://gdg.community.dev/gdg-bassam/)\
+✍️ &nbsp; Lead [TFUG Bassam](https://louis-japheth-kouassi.web.app/)
 ✍️ &nbsp; Designer - Google Developer Student Groups [Cocody](https://gdg.community.dev/gdg-cocody/)\
 ✍️ &nbsp; Designer - TensorFlow Abidjan [TFUG Abidjan](https://www.meetup.com/fr-FR/TensorFlow-Abidjan/?_cookie-check=px0Vy8Fb4iCoOBYp)\
-💬 &nbsp; Hire me here [Portfolio](https://louis-japheth-kouassi.web.app/)
 
 ## 🌐&nbsp;Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-japheth-kouassi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LKeenDev/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/louis.japheth.kouassi)
