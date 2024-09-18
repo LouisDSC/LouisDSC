@@ -24,7 +24,9 @@ Being a passionate Web Developer, i love technology. I'm always a learner and do
 ✍️ &nbsp; Lead - FlutterFlow Developer Group [FFDG Abidjan](https://www.meetup.com/fr-FR/ffdg-abidjan/)
 
 ## 🌐&nbsp;Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-japheth-kouassi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LouisKouassii/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/louis.japheth.kouassi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-japheth-kouassi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LouisKouassii/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/louis.japheth.kouassi) [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@louisjaphethkouassi)
+
+
 
 # 💻&nbsp;Tech Stack
 💡 &nbsp; Currently learning 
